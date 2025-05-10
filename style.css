@@ -1,0 +1,20 @@
+.bio p {
+position:absolute;
+left:70%;
+top: 30%;
+color: rgb(255, 6, 6);
+font-size: 80px;
+background-color: green;
+}
+.bio img{
+    background-color: green;
+    border-radius: 40%;
+}
+.bio h1{
+position:absolute;
+left:50%;
+top: 70%;
+color: rgb(255, 6, 6);
+font-size: 50px;
+background-color: gray;
+}
